@@ -1,1 +1,1 @@
-# test_to_redirect
+<meta http-equiv="refresh" content="0; url=https://github.com/user/projectB" />
